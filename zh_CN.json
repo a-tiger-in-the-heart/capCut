@@ -1,0 +1,123 @@
+{
+  "Description": "这是 剪映 软件的热键集合",
+  "Name": "剪映",
+  "Category": "剪映",
+  "com.mirabox.streamdock.knob.hotkey.jianying.pathHandle": {
+    "Name": "轨道缩放",
+    "Tooltip": "剪映的轨道缩放快捷键"
+  },
+  "com.mirabox.streamdock.knob.quick.hotkey.jianying.leftOrRight": {
+    "Name": "时间线",
+    "Tooltip": "剪映的时间线快捷键"
+  },
+  "com.mirabox.streamdock.knob.hotkey.jianying.volumeAdjustment": {
+    "Name": "音量调节",
+    "Tooltip": "剪映的音量调节快捷键"
+  },
+  "com.mirabox.streamdock.knob.hotkey.jianying.forwardAndBackwardPlay": {
+    "Name": "倍速播放",
+    "Tooltip": "剪映的倍速播放快捷键"
+  },
+  "com.mirabox.streamdock.knob.hotkey.jianying.playerScaling": {
+    "Name": "窗口缩放",
+    "Tooltip": "剪映的窗口缩放快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.revocation": {
+    "Name": "撤销",
+    "Tooltip": "剪映的撤销快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.recover": {
+    "Name": "恢复",
+    "Tooltip": "剪映的恢复快捷键"
+  },
+
+  "com.hotspot.streamdock.hotkey.jianying.segmentation": {
+    "Name": "分割",
+    "Tooltip": "剪映的分割快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.delete": {
+    "Name": "删除",
+    "Tooltip": "剪映的删除快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.globalPreview": {
+    "Name": "全局预览",
+    "Tooltip": "剪映的全局预览快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.leftClipping": {
+    "Name": "向左裁剪",
+    "Tooltip": "剪映的向左裁剪快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.rightClipping": {
+    "Name": "向右裁剪",
+    "Tooltip": "剪映的向右裁剪快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.copy": {
+    "Name": "复制",
+    "Tooltip": "剪映的复制快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.shear": {
+    "Name": "剪切",
+    "Tooltip": "剪映的剪切快捷键"
+  },
+
+  "com.hotspot.streamdock.hotkey.jianying.affix": {
+    "Name": "粘贴",
+    "Tooltip": "剪映的粘贴 快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.newCompositeFragment": {
+    "Name": "新建复合片段",
+    "Tooltip": "剪映的 新建复合片段 快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.uncomplexFragment": {
+    "Name": "解除复合片段",
+    "Tooltip": "剪映的解除复合片段快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.createCombination": {
+    "Name": "创建组合",
+    "Tooltip": "剪映的创建组合快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.uncombination": {
+    "Name": "解除组合",
+    "Tooltip": "剪映的解除组合快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.addTag": {
+    "Name": "添加标记",
+    "Tooltip": "剪映的添加标记快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.callOutGearshiftPanel": {
+    "Name": "变速面板",
+    "Tooltip": "剪映的变速面板快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.keyframe": {
+    "Name": "关键帧面板",
+    "Tooltip": "剪映的关键帧面板快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.previousPartitionPoint": {
+    "Name": "上一分割点",
+    "Tooltip": "剪映的上一分割点快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.nextPartitionPoint": {
+    "Name": "下一分割点",
+    "Tooltip": "剪映的下一分割点快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.switchMaterialPanel": {
+    "Name": "切换素材面板",
+    "Tooltip": "剪映的切换素材面板快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.toLeadInto": {
+    "Name": "导入",
+    "Tooltip": "剪映的导入快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.derive": {
+    "Name": "导出",
+    "Tooltip": "剪映的导出快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.fullScreenPlay": {
+    "Name": "全屏播放",
+    "Tooltip": "剪映的全屏播放快捷键"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.playOrPause": {
+    "Name": "播放/暂停",
+    "Tooltip": "剪映的播放/暂停快捷键"
+  }
+}

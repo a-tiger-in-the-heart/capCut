@@ -1,0 +1,121 @@
+{
+    "Description": "これは剪映ソフトウェアのホットキーの集合です",
+    "Name": "剪映",
+    "Category": "剪映",
+    "com.mirabox.streamdock.knob.hotkey.jianying.pathHandle": {
+      "Name": "パスハンドル",
+      "Tooltip": "剪映のトラックズームショートカットキー"
+    },
+    "com.mirabox.streamdock.knob.quick.hotkey.jianying.leftOrRight": {
+      "Name": "左右",
+      "Tooltip": "剪映のタイムライン移動ショートカットキー"
+    },
+    "com.mirabox.streamdock.knob.hotkey.jianying.volumeAdjustment": {
+      "Name": "音量調整",
+      "Tooltip": "剪映の音量調整ショートカットキー"
+    },
+    "com.mirabox.streamdock.knob.hotkey.jianying.forwardAndBackwardPlay": {
+      "Name": "順逆再生",
+      "Tooltip": "剪映の順方向と逆方向の再生ショートカットキー"
+    },
+    "com.mirabox.streamdock.knob.hotkey.jianying.playerScaling": {
+      "Name": "プレーヤーのスケーリング",
+      "Tooltip": "剪映のビデオスケールショートカットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.revocation": {
+      "Name": "取り消し",
+      "Tooltip": "剪映の取り消しホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.recover": {
+      "Name": "復元",
+      "Tooltip": "剪映の復元ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.segmentation": {
+      "Name": "分割",
+      "Tooltip": "剪映の分割ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.delete": {
+      "Name": "削除",
+      "Tooltip": "剪映の削除ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.globalPreview": {
+      "Name": "グローバルプレビュー",
+      "Tooltip": "剪映のグローバルプレビューホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.leftClipping": {
+      "Name": "左にトリミング",
+      "Tooltip": "剪映の左にトリミングホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.rightClipping": {
+      "Name": "右にトリミング",
+      "Tooltip": "剪映の右にトリミングホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.copy": {
+      "Name": "コピー",
+      "Tooltip": "剪映のコピーホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.shear": {
+      "Name": "カット",
+      "Tooltip": "剪映のカットホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.affix": {
+      "Name": "貼り付け",
+      "Tooltip": "剪映の貼り付けホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.newCompositeFragment": {
+      "Name": "新しい合成フラグメント",
+      "Tooltip": "剪映の新しい合成フラグメントホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.uncomplexFragment": {
+      "Name": "合成フラグメントの解除",
+      "Tooltip": "剪映の合成フラグメントの解除ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.createCombination": {
+      "Name": "組み合わせを作成",
+      "Tooltip": "剪映の組み合わせを作成ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.uncombination": {
+      "Name": "組み合わせを解除",
+      "Tooltip": "剪映の組み合わせを解除ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.addTag": {
+      "Name": "タグを追加",
+      "Tooltip": "剪映のタグを追加ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.callOutGearshiftPanel": {
+      "Name": "ギアシフトパネルを呼び出す",
+      "Tooltip": "剪映のギアシフトパネルを呼び出すホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.keyframe": {
+      "Name": "キーフレーム",
+      "Tooltip": "剪映のキーフレームホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.previousPartitionPoint": {
+      "Name": "前の分割点",
+      "Tooltip": "剪映の前の分割点ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.nextPartitionPoint": {
+      "Name": "次の分割点",
+      "Tooltip": "剪映の次の分割点ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.switchMaterialPanel": {
+      "Name": "素材パネルを切り替える",
+      "Tooltip": "剪映の素材パネルを切り替えるホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.toLeadInto": {
+      "Name": "インポート",
+      "Tooltip": "剪映のインポートホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.derive": {
+      "Name": "エクスポート",
+      "Tooltip": "剪映のエクスポートホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.fullScreenPlay": {
+      "Name": "フルスクリーン再生",
+      "Tooltip": "剪映のフルスクリーン再生ホットキー"
+    },
+    "com.hotspot.streamdock.hotkey.jianying.playOrPause": {
+      "Name": "再生/一時停止",
+      "Tooltip": "剪映の再生/一時停止ホットキー"
+    }
+  }

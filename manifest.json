@@ -1,0 +1,1026 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/actions/pathHandleImage",
+      "Controllers": [ "Knob" ],
+      "Name": "pathHandle",
+      "Settings": {
+        "Coalesce": true,
+        "Hotkeys": [
+          {
+            "KeyCmd": false,
+            "KeyCtrl": true,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": true,
+            "VKeyCode": 109,
+            "VKeyCode_Mac": 27
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": true,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": true,
+            "VKeyCode": 107,
+            "VKeyCode_Mac": 24
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": true,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyShift_Mac": true,
+            "VKeyCode": 90,
+            "VKeyCode_Mac": 6
+
+          }
+        ]
+      },
+      "States": [
+        {
+          "Image": "images/actions/pathHandleImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's pathHandle shortcut keys",
+      "UUID": "com.mirabox.streamdock.knob.hotkey.jianying.pathHandle"
+    },
+    {
+      "Icon": "images/actions/leftOrRightImage",
+      "Controllers": [ "Knob" ],
+      "Name": "leftOrRight",
+      "Settings": {
+        "Coalesce": true,
+        "Hotkeys": [
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": false,
+            "VKeyCode": 37,
+            "VKeyCode_Mac": 123
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": false,
+            "VKeyCode": 39,
+            "VKeyCode_Mac": 124
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": true,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": true,
+            "VKeyCode": 66,
+            "VKeyCode_Mac": 11
+          }
+        ]
+      },
+      "States": [
+        {
+          "Image": "images/actions/leftOrRightImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's leftOrRight shortcut keys",
+      "UUID": "com.mirabox.streamdock.knob.quick.hotkey.jianying.leftOrRight"
+    },
+    {
+      "Icon": "images/actions/volumeAdjustmentImage",
+      "Controllers": [ "Knob" ],
+      "Name": "volumeAdjustment",
+      "Settings": {
+        "Coalesce": true,
+        "Hotkeys": [
+          {
+            "KeyCmd": false,
+            "KeyCtrl": true,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": true,
+            "VKeyCode": 188,
+            "VKeyCode_Mac": 43
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": true,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": true,
+            "VKeyCode": 190,
+            "VKeyCode_Mac": 47
+          }
+        ]
+      },
+      "States": [
+        {
+          "Image": "images/actions/volumeAdjustmentImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's volumeAdjustment shortcut keys",
+      "UUID": "com.mirabox.streamdock.knob.hotkey.jianying.volumeAdjustment"
+    },
+    {
+      "Icon": "images/actions/forwardAndBackwardPlayImage",
+      "Controllers": [ "Knob" ],
+      "Name": "forwardAndBackwardPlay",
+      "Settings": {
+        "Coalesce": true,
+        "Hotkeys": [
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": false,
+            "VKeyCode": 74,
+            "VKeyCode_Mac": 38
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": false,
+            "VKeyCode": 76,
+            "VKeyCode_Mac": 37
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": false,
+            "KeyShift": false,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": false,
+            "VKeyCode": 75,
+            "VKeyCode_Mac": 40
+          }
+        ]
+      },
+      "States": [
+        {
+          "Image": "images/actions/forwardAndBackwardPlayImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's forwardAndBackwardPlay shortcut keys",
+      "UUID": "com.mirabox.streamdock.knob.hotkey.jianying.forwardAndBackwardPlay"
+    },
+    {
+      "Icon": "images/actions/playerScalingImage",
+      "Controllers": [ "Knob" ],
+      "Name": "playerScaling",
+      "Settings": {
+        "Coalesce": true,
+        "Hotkeys": [
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": true,
+            "KeyShift": true,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": false,
+            "KeyOption_Mac": true,
+            "KeyShift_Mac": true,
+            "VKeyCode": 109,
+            "VKeyCode_Mac": 27
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": true,
+            "KeyShift": true,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": false,
+            "KeyOption_Mac": true,
+            "KeyShift_Mac": true,
+            "VKeyCode": 107,
+            "VKeyCode_Mac": 24
+          },
+          {
+            "KeyCmd": false,
+            "KeyCtrl": false,
+            "KeyModifiers": 65536,
+            "KeyOption": true,
+            "KeyShift": true,
+            "NativeCode": -1,
+            "QTKeyCode": -1,
+            "RKeyCmd": false,
+            "RKeyCtrl": false,
+            "RKeyOption": false,
+            "RKeyShift": false,
+            "KeyCmd_Mac": false,
+            "KeyOption_Mac": true,
+            "KeyShift_Mac": true,
+            "VKeyCode": 90,
+            "VKeyCode_Mac": 6
+          }
+        ]
+      },
+      "States": [
+        {
+          "Image": "images/actions/playerScalingImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's playerScaling shortcut keys",
+      "UUID": "com.mirabox.streamdock.knob.hotkey.jianying.playerScaling"
+    },
+    {
+      "Icon": "images/actions/RevocationImage",
+      "Name": "Revocation",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 90,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 6
+      },
+      "States": [
+        {
+          "Image": "images/actions/RevocationImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Revocation shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.revocation"
+    },
+    {
+      "Icon": "images/actions/RecoverImage",
+      "Name": "Recover",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": true,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 90,
+        "KeyCmd_Mac": true,
+        "KeyShift_Mac": true,
+        "VKeyCode_Mac": 6
+      },
+      "States": [
+        {
+          "Image": "images/actions/RecoverImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Recover shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.recover"
+    },
+    {
+      "Icon": "images/actions/SegmentationImage",
+      "Name": "Segmentation",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 66,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 11
+      },
+      "States": [
+        {
+          "Image": "images/actions/SegmentationImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Segmentation shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.segmentation"
+    },
+    {
+      "Icon": "images/actions/DeleteImage",
+      "Name": "Delete",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 46,
+        "KeyCmd_Mac": false,
+        "VKeyCode_Mac": 51
+      },
+      "States": [
+        {
+          "Image": "images/actions/DeleteImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Delete shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.delete"
+    },
+    {
+      "Icon": "images/actions/GlobalPreviewImage",
+      "Name": "GlobalPreview",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": true,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 90,
+        "KeyCmd_Mac": false,
+        "KeyShift_Mac": true,
+        "VKeyCode_Mac": 6
+      },
+      "States": [
+        {
+          "Image": "images/actions/GlobalPreviewImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's GlobalPreview shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.globalPreview"
+    },
+    {
+      "Icon": "images/actions/LeftClippingImage",
+      "Name": "LeftClipping",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 81,
+        "KeyCmd_Mac": false,
+        "VKeyCode_Mac": 12
+      },
+      "States": [
+        {
+          "Image": "images/actions/LeftClippingImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's LeftClipping shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.leftClipping"
+    },
+    {
+      "Icon": "images/actions/RightClippingImage",
+      "Name": "RightClipping",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 87,
+        "KeyCmd_Mac": false,
+        "VKeyCode_Mac": 13
+      },
+      "States": [
+        {
+          "Image": "images/actions/RightClippingImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's RightClipping shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.rightClipping"
+    },
+    {
+      "Icon": "images/actions/CopyImage",
+      "Name": "Copy",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 67,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 8
+      },
+      "States": [
+        {
+          "Image": "images/actions/CopyImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Copy shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.copy"
+    },
+    {
+      "Icon": "images/actions/ShearImage",
+      "Name": "Shear",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 88,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 7
+      },
+      "States": [
+        {
+          "Image": "images/actions/ShearImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Shear shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.shear"
+    },
+    {
+      "Icon": "images/actions/AffixImage",
+      "Name": "Affix",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 86,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 9
+      },
+      "States": [
+        {
+          "Image": "images/actions/AffixImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Affix shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.affix"
+    },
+    {
+      "Icon": "images/actions/NewCompositeFragmentImage",
+      "Name": "NewCompositeFragment",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": true,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 71,
+        "KeyCmd_Mac": false,
+        "KeyOption_Mac": true,
+        "VKeyCode_Mac": 5
+      },
+      "States": [
+        {
+          "Image": "images/actions/NewCompositeFragmentImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's NewCompositeFragmentshortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.newCompositeFragment"
+    },
+    {
+      "Icon": "images/actions/UncomplexFragmentImage",
+      "Name": "UncomplexFragment",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": true,
+        "KeyShift": true,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 71,
+        "KeyCmd_Mac": false,
+        "KeyOption_Mac": true,
+        "KeyShift_Mac": true,
+        "VKeyCode_Mac": 5
+      },
+      "States": [
+        {
+          "Image": "images/actions/UncomplexFragmentImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's UncomplexFragment shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.uncomplexFragment"
+    },
+    {
+      "Icon": "images/actions/CreateCombinationImage",
+      "Name": "CreateCombination",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 71,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 5
+      },
+      "States": [
+        {
+          "Image": "images/actions/CreateCombinationImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's CreateCombination shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.createCombination"
+    },
+    {
+      "Icon": "images/actions/uncombinationImage",
+      "Name": "uncombination",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": true,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 71,
+        "KeyCmd_Mac": true,
+        "KeyShift_Mac": true,
+        "VKeyCode_Mac": 5
+      },
+      "States": [
+        {
+          "Image": "images/actions/uncombinationImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's uncombination shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.uncombination"
+    },
+    {
+      "Icon": "images/actions/AddTagImage",
+      "Name": "AddTag",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 77,
+        "KeyCmd_Mac": false,
+        "VKeyCode_Mac": 46
+      },
+      "States": [
+        {
+          "Image": "images/actions/AddTagImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's AddTag shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.addTag"
+    },
+    {
+      "Icon": "images/actions/CallOutGearshiftPanelImage",
+      "Name": "CallOutGearshiftPanel",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 82,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 15
+      },
+      "States": [
+        {
+          "Image": "images/actions/CallOutGearshiftPanelImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's CallOutGearshiftPanel shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.callOutGearshiftPanel"
+    },
+    {
+      "Icon": "images/actions/KeyframeImage",
+      "Name": "Keyframe",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": true,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 75,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 40
+      },
+      "States": [
+        {
+          "Image": "images/actions/KeyframeImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Keyframe shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.keyframe"
+    },
+    {
+      "Icon": "images/actions/PreviousPartitionPointImage",
+      "Name": "PreviousPartitionPoint",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 38,
+        "KeyCmd_Mac": false,
+        "VKeyCode_Mac": 126
+      },
+      "States": [
+        {
+          "Image": "images/actions/PreviousPartitionPointImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's PreviousPartitionPoint shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.previousPartitionPoint"
+    },
+    {
+      "Icon": "images/actions/NextPartitionPointImage",
+      "Name": "NextPartitionPoint",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 40,
+        "KeyCmd_Mac": false,
+        "VKeyCode_Mac": 125
+      },
+      "States": [
+        {
+          "Image": "images/actions/NextPartitionPointImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's NextPartitionPoint shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.nextPartitionPoint"
+    },
+    {
+      "Icon": "images/actions/SwitchMaterialPanelImage",
+      "Name": "SwitchMaterialPanel",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 9,
+        "KeyCmd_Mac": false,
+        "VKeyCode_Mac": 48
+      },
+      "States": [
+        {
+          "Image": "images/actions/SwitchMaterialPanelImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's SwitchMaterialPanel shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.switchMaterialPanel"
+    },
+    {
+      "Icon": "images/actions/ToLeadIntoImage",
+      "Name": "ToLeadInto",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 73,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 34
+      },
+      "States": [
+        {
+          "Image": "images/actions/ToLeadIntoImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's ToLeadInto shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.toLeadInto"
+    },
+    {
+      "Icon": "images/actions/DeriveImage",
+      "Name": "Derive",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 69,
+        "KeyCmd_Mac": true,
+        "VKeyCode_Mac": 14
+      },
+      "States": [
+        {
+          "Image": "images/actions/DeriveImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's Derive shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.derive"
+    },
+    {
+      "Icon": "images/actions/FullScreenPlayImage",
+      "Name": "FullScreenPlay",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": true,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": true,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 70,
+        "KeyCmd_Mac": true,
+        "KeyShift_Mac": true,
+        "VKeyCode_Mac": 3
+      },
+      "States": [
+        {
+          "Image": "images/actions/FullScreenPlayImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's FullScreenPlay shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.fullScreenPlay"
+    },
+    {
+      "Icon": "images/actions/PlayOrPauseImage",
+      "Name": "PlayOrPause",
+      "Settings": {
+        "KeyCmd": false,
+        "KeyCtrl": false,
+        "KeyModifiers": 65536,
+        "KeyOption": false,
+        "KeyShift": false,
+        "NativeCode": -1,
+        "QTKeyCode": -1,
+        "RKeyCmd": false,
+        "RKeyCtrl": false,
+        "RKeyOption": false,
+        "RKeyShift": false,
+        "VKeyCode": 32,
+        "KeyCmd_Mac": false,
+        "VKeyCode_Mac": 49
+      },
+      "States": [
+        {
+          "Image": "images/actions/PlayOrPauseImage"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "CapCut's PlayOrPause shortcut keys",
+      "UUID": "com.hotspot.streamdock.hotkey.jianying.playOrPause"
+    }
+  ],
+  "SDKVersion": 1,
+  "Author": "HotSpot",
+  "Category": "CapCut",
+  "CategoryIcon": "images/icons/pluginIcon",
+  "Description": "This is a custom hotkey plugin of Stream Dock software",
+  "Name": "CapCut",
+  "Icon": "images/icons/pluginIcon",
+  "URL": "http://video.hotspotek.com.cn/",
+  "Version": "1.0.0",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "2.9"
+  }
+}

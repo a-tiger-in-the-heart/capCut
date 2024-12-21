@@ -1,0 +1,121 @@
+{
+  "Description": "This is a collection of hotkeys for the CapCut software",
+  "Name": "CapCut",
+  "Category": "CapCut",
+  "com.mirabox.streamdock.knob.hotkey.jianying.pathHandle": {
+    "Name": "Track Zoom",
+    "Tooltip": "Hotkey for Track Zoom in CapCut"
+  },
+  "com.mirabox.streamdock.knob.quick.hotkey.jianying.leftOrRight": {
+    "Name": "Timeline",
+    "Tooltip": "Hotkey for Timeline in CapCut"
+  },
+  "com.mirabox.streamdock.knob.hotkey.jianying.volumeAdjustment": {
+    "Name": "Volume Adjustment",
+    "Tooltip": "Hotkey for Volume Adjustment in CapCut"
+  },
+  "com.mirabox.streamdock.knob.hotkey.jianying.forwardAndBackwardPlay": {
+    "Name": "Double Speed Playback",
+    "Tooltip": "Hotkey for Double Speed Playback in CapCut"
+  },
+  "com.mirabox.streamdock.knob.hotkey.jianying.playerScaling": {
+    "Name": "Window Scaling",
+    "Tooltip": "Hotkey for Window Scaling in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.revocation": {
+    "Name": "Revoke",
+    "Tooltip": "Hotkey for Revoke in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.recover": {
+    "Name": "Restore",
+    "Tooltip": "Hotkey for Restore in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.segmentation": {
+    "Name": "Separate",
+    "Tooltip": "Hotkey for Separate in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.delete": {
+    "Name": "Delete",
+    "Tooltip": "Hotkey for deleting in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.globalPreview": {
+    "Name": "Overall Preview",
+    "Tooltip": "Hotkey for Overall Preview in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.leftClipping": {
+    "Name": "Crop Left",
+    "Tooltip": "Hotkey for Crop Left in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.rightClipping": {
+    "Name": "Crop Right",
+    "Tooltip": "Hotkey for Crop Right in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.copy": {
+    "Name": "Copy",
+    "Tooltip": "Hotkey for copying in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.shear": {
+    "Name": "Cut",
+    "Tooltip": "Hotkey for cutting in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.affix": {
+    "Name": "Paste",
+    "Tooltip": "Hotkey for pasting in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.newCompositeFragment": {
+    "Name": "New Composite Fragment",
+    "Tooltip": "Hotkey for creating a new composite fragment in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.uncomplexFragment": {
+    "Name": "Release Composite Fragment",
+    "Tooltip": "Hotkey for Release Composite Fragment in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.createCombination": {
+    "Name": "Group",
+    "Tooltip": "Hotkey for Group in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.uncombination": {
+    "Name": "Ungroup",
+    "Tooltip": "Hotkey for Ungroup in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.addTag": {
+    "Name": "Add Tags",
+    "Tooltip": "Hotkey for adding tags in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.callOutGearshiftPanel": {
+    "Name": "Variable Speed",
+    "Tooltip": "Hotkey for Variable Speed in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.keyframe": {
+    "Name": "Keyframe Panel",
+    "Tooltip": "Hotkey for Keyframe Panel in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.previousPartitionPoint": {
+    "Name": "Previous Split Point",
+    "Tooltip": "Hotkey for the Previous Split Point in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.nextPartitionPoint": {
+    "Name": "Next Split Point",
+    "Tooltip": "Hotkey for the Next Split Point in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.switchMaterialPanel": {
+    "Name": "Switch Material Panel",
+    "Tooltip": "Hotkey for switching the material panel in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.toLeadInto": {
+    "Name": "Import",
+    "Tooltip": "Hotkey for importing in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.derive": {
+    "Name": "Export",
+    "Tooltip": "Hotkey for exporting in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.fullScreenPlay": {
+    "Name": "Full Screen Play",
+    "Tooltip": "Hotkey for full screen play in CapCut"
+  },
+  "com.hotspot.streamdock.hotkey.jianying.playOrPause": {
+    "Name": "Play/Pause",
+    "Tooltip": "Hotkey for play/pause in CapCut"
+  }
+}
